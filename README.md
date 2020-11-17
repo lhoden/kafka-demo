@@ -1,2 +1,2 @@
 # kafka-demo
-Testing Kafka within Java application
+Leveraging Apache Kafka within Java app
